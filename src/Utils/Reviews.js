@@ -19,11 +19,11 @@ const Reviews = [
   },
   {
     id: 3,
-    name: "Dadang Darsono",
-    bio: "CEO MSN Production",
-    img: "https://i.ibb.co/yPSV6Fv/dadang.jpg",
+    name: "Teddy Eragbai",
+    bio: "Project Manager",
+    img: "https://i.ibb.co/HCpcbvf/mr-teddy.jpg",
     description:
-      "I was give him to make an webpage. He made me an awesome website. I recommend himself and wanna work with him again.",
+      "Taiwo is a great frontend developer with great communication skills. She made valuable impact during the time she spent with us at Credevnet and I recommend her for any of such roles.",
     rating: 5.0,
   },
   
