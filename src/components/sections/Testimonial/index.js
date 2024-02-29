@@ -59,7 +59,7 @@ const Testimonial = () => {
         animate={viewDiv && "visible"}
         variants={headingAnimation}
       >
-        <h3 className="text-center text-neutral">What My Clients Say</h3>
+        <h3 className="text-center text-neutral">Testimonials From My Past Internships</h3>
         <h1 className="text-4xl font-semibold text-center text-primary">
           Testimonials
         </h1>
@@ -81,7 +81,7 @@ const Testimonial = () => {
               >
                 <div className="px-6">
                   <FaQuoteLeft className="mb-4 text-6xl text-primary"></FaQuoteLeft>
-                  <h2 className="text-center">{review.description}</h2>
+                  <h3 className="text-center text-sm">{review.description}</h3>
                 </div>
                 <div className="flex justify-end px-6 py-2 mt-12 rounded-b bg-primary">
                   <div className="mr-4 text-right text-gray-200">

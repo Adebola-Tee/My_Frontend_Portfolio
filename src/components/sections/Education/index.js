@@ -62,7 +62,7 @@ const Education = () => {
               <p className="text-sm text-neutral font-semibold">2022</p>
             </div>
             <p className="text-sm text-neutral text-justify">
-              I completed my Web Design Course with HTML and CSS at FreeCde Camp
+              I completed my Web Design Course with HTML and CSS at FreeCode Camp
             </p>
           </div>
           {/* Migrating to fullstack */}

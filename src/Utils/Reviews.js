@@ -5,7 +5,7 @@ const Reviews = [
     bio: "Product Manager",
     img: "https://i.ibb.co/n0p8ZzM/2024-02-02-10-57-19-Photos.png",
     description:
-      "I am very impressed to work with him. He is a very good and skilled person. I want to work with him again.",
+      "I had the pleasure of working closely with Taiwo on a project, and her impact was truly remarkable. As a frontend developer, she displayed constant readiness to learn, and a humble demeanour. As a product manager, I highly recommend Taiwo for her outstanding contributions and proficiency in her role.",
     rating: 5.0,
   },
   {

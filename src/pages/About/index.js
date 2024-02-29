@@ -70,13 +70,10 @@ const About = () => {
               />
             </div>
             <p className="text-neutral font-medium text-center translate-y-[-100%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
-              As a MERN stack developer, I am committed to building high-quality
-              web applications that meet the needs of my clients. Capable to solve working problems.
-              Passionate about learning & development to reach the target. Eager
+               I am committed to building high-quality
+              web applications. Eager
               to tackle more complex problems and continue to find ways to
-              maximize user efficiency. I specialize in using
-              React.js, Next js, Typescript, MongoDB, Express.js, and Node.js to
-              create scalable and robust web applications.
+              maximize user efficiency. 
             </p>
             <br />
             <p className="text-neutral font-medium text-center translate-y-[-150%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
@@ -99,7 +96,7 @@ const About = () => {
                 <span className="mr-2 text-primary">Address : </span>Oluyole, Ibadan, Nigeria
               </h2>
               <a
-                href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+                href="https://drive.google.com/file/d/1lP3hHuGw1Enty4lJnKe_o2_5JRB53z-X/view?usp=drive_link"
                 target="blank"
               >
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">

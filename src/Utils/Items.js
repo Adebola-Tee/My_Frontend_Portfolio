@@ -9,10 +9,6 @@ const Items = [
     ],
     features: [
       "User registration and login",
-      "Select the type of question and the difficulty level of the question",
-      "Juis time is running and after the time is up it stops automatically",
-      "The final results of the answers answered will be shown",
-      "Incorrect and correct answer results will be displayed",
       "Responsive Design",
     ],
     technologies: [
@@ -25,7 +21,7 @@ const Items = [
     title: "Space Tourism",
     description:
       "Frontend react-based Project",
-    category: "personal",
+    category: "collaboration",
     liveLink: "https://space-tourism-alpha.vercel.app/",
     codeLink: "https://github.com/darmhey/space-tourism",
   },
@@ -52,6 +48,37 @@ const Items = [
     category: "personal",
     liveLink: "https://firebase-authentication-orcin.vercel.app/",
     codeLink: "https://github.com/Adebola-Tee/Firebase-Authentication",
+  },
+  {
+    id: 3,
+    mainImage: "https://res.cloudinary.com/dibyt1kxa/image/upload/v1709194929/Taiwo-Oloyede%20project%20images/space/my-portfolio_2_bzjed2.png",
+    img: [
+      "https://res.cloudinary.com/dibyt1kxa/image/upload/v1709194991/Taiwo-Oloyede%20project%20images/space/my-portfolio01_tb7aqs.png",
+      "https://res.cloudinary.com/dibyt1kxa/image/upload/v1709194929/Taiwo-Oloyede%20project%20images/space/my-portfolio_2_bzjed2.png",
+      "https://res.cloudinary.com/dibyt1kxa/image/upload/v1709198361/Taiwo-Oloyede%20project%20images/space/my-portfolio_03_jatflx.png",
+    ],
+    features: [
+      "Home",
+      "About",
+      "Contact",
+      "Testimonials",
+      "Project",
+    ],
+    technologies: [
+      "Tailwind CSS",
+      "React React-icons",
+      "Sweetalert2",
+      "react-type-animation",
+      "Framer-motion",
+      "daisyui",
+      "emailjs"
+    ],
+    title: "My Portfolio",
+    description:
+      "Compilation of my projects and experiences plus technologies I am familar with",
+    category: "personal",
+    liveLink: "https://my-frontend-portfolio-gold.vercel.app/",
+    codeLink: "https://github.com/Adebola-Tee/My_Frontend_Portfolio",
   },
 ];
 
