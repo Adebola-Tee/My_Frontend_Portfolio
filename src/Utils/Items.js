@@ -80,6 +80,30 @@ const Items = [
     liveLink: "https://my-frontend-portfolio-gold.vercel.app/",
     codeLink: "https://github.com/Adebola-Tee/My_Frontend_Portfolio",
   },
+  {
+    id: 4,
+    mainImage: "https://res.cloudinary.com/dibyt1kxa/image/upload/v1710334790/Indecision1_jxgoz0.png",
+    img: [
+      "https://res.cloudinary.com/dibyt1kxa/image/upload/v1710334790/Indecision1_jxgoz0.png",
+      "https://res.cloudinary.com/dibyt1kxa/image/upload/v1710335043/Indecision3_lk1kci.png",
+      "https://res.cloudinary.com/dibyt1kxa/image/upload/v1710334798/Indecision2_ifp2iv.png",
+    ],
+    features: [
+      "User registration and login",
+      "Responsive Design",
+    ],
+    technologies: [
+      "React",
+      "Normalize css",
+      "webpack"
+    ],
+    title: "SelectWithEase-App",
+    description:
+      "Frontend react-based Project",
+    category: "personal",
+    liveLink: "https://selectwithease-app.vercel.app/",
+    codeLink: "https://github.com/Adebola-Tee/Selectwithease-app",
+  },
 ];
 
 export default Items;
