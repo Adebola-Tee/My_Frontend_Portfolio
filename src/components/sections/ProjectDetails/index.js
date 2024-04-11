@@ -18,7 +18,7 @@ const ProjectDetails = () => {
 
   const settings = {
     dots: true,
-    arrows: false,
+    arrows: true,
     infinite: true,
     speed: 500,
     slidesToScroll: 1,
@@ -46,11 +46,6 @@ const ProjectDetails = () => {
               className="mx-1 md:mx-4 rounded-lg shadow-xl single-blog cursor-pointer border-2 border-primary flex flex-col justify-between"
               style={{ backgroundColor: "#313131" }}
             >
-              {/* <img
-                src={image}
-                alt={item?.title}
-                className="inline-block w-full h-64 md:h-72 rounded-lg"
-              /> */}
               <LazyLoadImage
                 placeholderSrc={placeholderImage}
                 src={image}

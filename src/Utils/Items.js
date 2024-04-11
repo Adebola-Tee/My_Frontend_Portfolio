@@ -90,7 +90,7 @@ const Items = [
     ],
     features: [
       "User registration and login",
-      "Responsive Design",
+      "Responsive Design",           
     ],
     technologies: [
       "React",
